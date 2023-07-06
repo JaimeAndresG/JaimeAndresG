@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime González, I'm a programmer, to be more specific, a computer programmer analyst</h1>
 <h3 align="center">I am a responsible and proactive person, always willing to take on new challenges. I am passionate about technology and I like to be updated on the latest trends and developments in programming. In addition, I enjoy working as a team and collaborating with my colleagues to achieve project goals</h3>
 
-- 🌱 I’m currently learning **I'm still learning many languajes**
+- 🌱 I’m currently learning **I'm still learning many programming languages**
 - 💻 I like love coding
 
 <p align="left">
